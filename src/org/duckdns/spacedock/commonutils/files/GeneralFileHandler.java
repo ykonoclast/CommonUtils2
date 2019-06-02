@@ -22,7 +22,6 @@ import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
 import javax.json.JsonObject;
-import org.duckdns.spacedock.commonutils.files.GeneralFileHandler;
 
 /**
  * Classe principale d'accès aux utilitaires de récupération de fichiers
